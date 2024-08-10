@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN and Data Processing**
 
-- ⚡ Fun fact **I think I can funnily mimic somebody. Love playing sports.**
+- ⚡ Fun fact **I Love playing sports.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
